@@ -1,0 +1,31 @@
+.btn {
+    background-color: yellow;
+    width: 15;
+    float: right;
+  }
+  .btnOther {
+    background-color: grey;
+  }
+  .sideR {
+    border: solid;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  .divUsers{
+    border: solid;
+    border-Radius: 40px ;
+    padding: 10px;
+    margin: 20px;
+    max-width:700px;
+  }
+  .divInfo{
+    border: solid 2px  purple; 
+    padding: 10px; 
+    margin: 15px;
+  
+  }
+  .divAdd{
+    border: solid 4px black;
+    padding: 15px; 
+    margin: 15px;
+  }
