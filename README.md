@@ -7,7 +7,5 @@
 
 1)npm install
 
-2)cd mid
-
-3)npm start
+2)npm start
 
