@@ -1,7 +1,13 @@
-### `npm start`
+## How to get the code
+1)Download code 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2)Open terminal in folder
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to run code
+
+1)npm install
+
+2)cd mid
+
+3)npm start
+
